@@ -1,1 +1,1 @@
-ReadMe file inside 0x01-shell_permissions directory
+README file for Directory 0x01-shell_permissions
